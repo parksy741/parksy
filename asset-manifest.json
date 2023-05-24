@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/parksy/static/css/main.1a35f18f.css",
-    "main.js": "/parksy/static/js/main.843c0b31.js",
+    "main.css": "/parksy/static/css/main.2ee25827.css",
+    "main.js": "/parksy/static/js/main.c768923a.js",
     "static/js/787.914562a7.chunk.js": "/parksy/static/js/787.914562a7.chunk.js",
     "index.html": "/parksy/index.html",
-    "main.1a35f18f.css.map": "/parksy/static/css/main.1a35f18f.css.map",
-    "main.843c0b31.js.map": "/parksy/static/js/main.843c0b31.js.map",
+    "main.2ee25827.css.map": "/parksy/static/css/main.2ee25827.css.map",
+    "main.c768923a.js.map": "/parksy/static/js/main.c768923a.js.map",
     "787.914562a7.chunk.js.map": "/parksy/static/js/787.914562a7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a35f18f.css",
-    "static/js/main.843c0b31.js"
+    "static/css/main.2ee25827.css",
+    "static/js/main.c768923a.js"
   ]
 }
